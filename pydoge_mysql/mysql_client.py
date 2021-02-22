@@ -1,5 +1,5 @@
 from mysql.connector import connect
-from PyDoge import ConnectionDbCursor, chunks
+from pydoge import ConnectionDbCursor, chunks
 
 
 class MysqlClient:

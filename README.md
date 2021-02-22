@@ -1,5 +1,5 @@
 # PyDoge-mysql
 
-![alt logo](./static/doge.png)
+![alt logo](https://github.com/ezeportela/pydoge/raw/master/static/doge.png)
 
 A mysql library
